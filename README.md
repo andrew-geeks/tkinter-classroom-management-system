@@ -25,9 +25,9 @@ The project(software) is published with a primary account with email:admin@cms.c
 Abbreviations:
 1. grno: unique id given to each student
 2. PT1: Periodic Test-1
-3. PT2: eriodic Test-2
-4. PT3: eriodic Test-3
-5. PT4: eriodic Test-4
+3. PT2: Periodic Test-2
+4. PT3: Periodic Test-3
+5. PT4: Periodic Test-4
 6. HFYEARLY: HALF YEARLY
 
 In the coming versions(1.2 and 1.3) we will be adding new features. Stay tuned!!
