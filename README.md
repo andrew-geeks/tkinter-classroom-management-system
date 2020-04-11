@@ -8,6 +8,8 @@ In the upcoming version(1.3), we wil add attendance records.
 
 Watch the video of the version1.1:<https://youtu.be/XNcBYkREzl8>
 
+Watch the video of the version1.2:<https://youtu.be/xMxFWqG-NSw>
+
 
 
 ------------
