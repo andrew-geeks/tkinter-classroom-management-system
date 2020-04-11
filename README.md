@@ -3,7 +3,7 @@ A python software fully developed by me. It can be used for daily activities of 
 It helps to plot graphs like Pie Chart & Bar Graph for student projection and class projection(in version 1.2).
 You can create an acount in the software and add your class.
 
-Watch the video of the project:<https://youtu.be/XNcBYkREzl8>
+Watch the video of the version1.1:<https://youtu.be/XNcBYkREzl8>
 
 ------------
 Libraries used:
