@@ -1,9 +1,14 @@
-# tkinter-Classroom-Management-System(1.1)
+# tkinter-Classroom-Management-System(1.2)
 A python software fully developed by me. It can be used for daily activities of a teacher(tutor). It has exciting features like plotting graphs, percentage calculator, saving details of students in databases etc.
-It helps to plot graphs like Pie Chart & Bar Graph for student projection and class projection(in version 1.2).
+It helps to plot graphs like Pie Chart & Bar Graph for student projection and class projection(version 1.2).
 You can create an acount in the software and add your class.
 
+New version(1.2) has been uploaded which includes student report & class performance.
+In the upcoming version(1.3), we wil add attendance records.
+
 Watch the video of the version1.1:<https://youtu.be/XNcBYkREzl8>
+
+
 
 ------------
 Libraries used:
@@ -31,7 +36,7 @@ Abbreviations:
 5. PT4: Periodic Test-4
 6. HFYEARLY: HALF YEARLY
 
-In the coming versions(1.2 and 1.3) we will be adding new features. Stay tuned!!
+In the coming versions(1.3) we will be adding new features. Stay tuned!!
 
 Twitter: <https://twitter.com/andrewissac20>
 
